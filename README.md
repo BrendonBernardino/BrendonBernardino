@@ -10,7 +10,7 @@
 
 ![Brendon Github Stats](https://github-readme-stats.vercel.app/api?username=BrendonBernardino&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonBernardino&layout=compact)](https://github.com/BrendonBernardino/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonBernardino&layout=compact&theme=github_dark)](https://github.com/BrendonBernardino/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&theme=github_dark&repo=ParkinSp00n)](https://github.com/BrendonBernardino/ParkinSp00n)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&theme=github_dark&repo=Parking-Control-Module-Project)](https://github.com/BrendonBernardino/Parking-Control-Module-Project)
