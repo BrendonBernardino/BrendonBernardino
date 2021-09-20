@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonBernardino&layout=compact)](https://github.com/BrendonBernardino/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&repo=BrendonBernardino)](https://github.com/BrendonBernardino/BrendonBernardino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&repo=ParkinSp00n)](https://github.com/BrendonBernardino/ParkinSp00n)
 
 
 
