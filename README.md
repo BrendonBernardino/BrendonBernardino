@@ -12,8 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonBernardino&layout=compact)](https://github.com/BrendonBernardino/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&repo=ParkinSp00n)](https://github.com/BrendonBernardino/ParkinSp00n)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&theme=github_dark&repo=ParkinSp00n)](https://github.com/BrendonBernardino/ParkinSp00n)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&theme=github_dark&repo=Parking-Control-Module-Project)](https://github.com/BrendonBernardino/Parking-Control-Module-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&theme=github_dark&repo=AttFirmware_HM10)](https://github.com/BrendonBernardino/AttFirmware_HM10)
 
 
 <!--
