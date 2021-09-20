@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, sou o Brendon! 👋
+
+
+- 🔭 Atualmente estou trabalhando com desenvolvimento de sistemas embarcados. Mais especificamente com microprocessador da stm32.
+- 🌱 Estou aprendendo a desenvolver minhas próprias placas no altium e estudando C++. Também quero aprender a modelar objetos em 3D.
+
+## Skills
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<i class="devicon-c-line-wordmark colored"></i>
 
 <!--
 **BrendonBernardino/BrendonBernardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
