@@ -8,9 +8,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendon-wesley-656268180/)](https://www.linkedin.com/in/brendon-wesley-656268180/)
 
 
-![Brendon Github Stats](https://github-readme-stats.vercel.app/api?username=BrendonBernardino&show_icons=true&theme=merko)
+![Brendon Github Stats](https://github-readme-stats.vercel.app/api?username=BrendonBernardino&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonBernardino&layout=compact)](https://github.com/BrendonBernardino/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrendonBernardino&repo=BrendonBernardino)](https://github.com/BrendonBernardino/BrendonBernardino)
 
 
 
