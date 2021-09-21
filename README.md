@@ -1,11 +1,16 @@
-### Olá, sou o Brendon! 👋
+## Olá, sou o Brendon! 👋
 
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento de sistemas embarcados. Mais especificamente com microprocessador da stm32.
-- 🌱 Estou aprendendo a desenvolver minhas próprias placas no altium e estudando C++. Também quero aprender a modelar objetos em 3D.
+- 🔭 Atualmente estou trabalhando com desenvolvimento de sistemas embarcados. Mais especificamente com microprocessador da stm32;
+- 🌱 Estou aprendendo a desenvolver minhas próprias placas no altium e estudando C++. Também quero aprender a modelar objetos em 3D;
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrendonBernardino)](https://github.com/BrendonBernardino)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendon-wesley-656268180/)](https://www.linkedin.com/in/brendon-wesley-656268180/)
+
+### Skills {
+<img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+}
 
 
 ![Brendon Github Stats](https://github-readme-stats.vercel.app/api?username=BrendonBernardino&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonBernardino&layout=compact&theme=github_dark)](https://github.com/BrendonBernardino/)
