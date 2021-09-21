@@ -10,7 +10,7 @@
 ### Skills {
 <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-}
+### }
 
 
 ![Brendon Github Stats](https://github-readme-stats.vercel.app/api?username=BrendonBernardino&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonBernardino&layout=compact&theme=github_dark)](https://github.com/BrendonBernardino/)
