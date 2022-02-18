@@ -1,8 +1,8 @@
 ## Olá, sou o Brendon! 👋
 
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento de sistemas embarcados. Mais especificamente com microprocessador da stm32;
-- 🌱 Estou aprendendo a desenvolver minhas próprias placas no altium e estudando C++. Também quero aprender a modelar objetos em 3D;
+- 🔭 Atualmente estou trabalhando com desenvolvimento de sistemas embarcados. Mais especificamente com microprocessador da stm32 e esp32;
+- 🌱 Estudos atuais: Visão computacional; Projetagem de PCB; Circuitos; Modelagem 3D;
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrendonBernardino)](https://github.com/BrendonBernardino)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brendon-wesley-656268180/)](https://www.linkedin.com/in/brendon-wesley-656268180/)
