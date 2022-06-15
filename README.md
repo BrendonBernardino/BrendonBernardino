@@ -10,8 +10,8 @@
 ### Skills {
 <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img height=30 weight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-- Experiência com Stm32f030f4p6 e Stm32f407vgt (Cortex M0 e M4); Arduino; Esp32
-- Soldagem de Componentes PTH
+- Experiência com Stm32f030f4p6, Stm32f103c8t8(bluepill), Stm32f407vgt (Cortex M0 e M4); Arduino; Esp32
+- Soldagem de Componentes PTH e SMD
 
 ### }
 
